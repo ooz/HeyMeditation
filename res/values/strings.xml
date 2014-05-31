@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+	<!--  -->
     <string name="app_name">Hey! Meditation</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="hey_meditation">Hey! Meditation</string>
+    <!--  -->
     <string name="title_activity_timer">Hey! Meditation</string>
+    <!--  -->
     <string name="button1_label">1min meditation</string>
+    <!--  -->
     <string name="button2_label">3min meditation</string>
+    <!--  -->
     <string name="breathe">Breathe!</string>
+    <!--  -->
     <string name="instruction">Follow the instructions on screen until you hear the notification sound!</string>
+    <!--  -->
     <string name="about_menu_item">About</string>
 
 </resources>
