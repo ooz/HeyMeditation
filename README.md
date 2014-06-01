@@ -23,4 +23,4 @@ Screenshots
 Acknowledgements
 ----------------
 
- * [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/index.html)
+ * The App icon was created with [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/index.html)
