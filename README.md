@@ -3,6 +3,8 @@ Hey! Meditation
 
 A minimalistic Android App to support short meditation sessions.
 
+You can download the most recent release by [clicking this link](https://github.com/ooz/HeyMeditation/raw/master/releases/HeyMeditation_v1.0.apk).
+
 Screenshots
 ===========
 
