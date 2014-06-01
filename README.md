@@ -8,6 +8,8 @@ Installation
 
 Hey! Meditation is not yet available in the Google Play Store.
 
+To install the App you need to:
+
  1. Go to Settings > Security
  2. Check (activate) the option "Unknown sources"
  3. Download and install the most recent release from [here](https://github.com/ooz/HeyMeditation/raw/master/releases/HeyMeditation_v1.0.apk)
