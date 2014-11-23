@@ -60,7 +60,7 @@ public class TimerActivity extends Activity {
 	private void createTimers() {
 		final TextView text = (TextView) findViewById(R.id.textView1);
 		
-		this.preparationTimer = new CountDownTimer(8000, 1000) {
+		this.preparationTimer = new CountDownTimer(10000, 1000) {
 			@Override
 			public void onTick(long millisUntilFinished) {
 				if (millisUntilFinished <= 4000) {
