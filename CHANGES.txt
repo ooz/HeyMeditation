@@ -1,0 +1,4 @@
+1.0.1   2014/11/23
+
+ * Increase the "breathe" time
+ * Prevent Android device from sleeping during the timer
