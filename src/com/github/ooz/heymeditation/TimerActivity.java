@@ -12,6 +12,7 @@ import android.os.CountDownTimer;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
+import android.view.WindowManager;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -32,7 +33,8 @@ public class TimerActivity extends Activity {
 		Intent intent = getIntent();
 		this.meditationDuration = intent.getIntExtra(MainActivity.TIMER_MESSAGE, 
 													 TimerActivity.DEFAULT_DURATION);
-		
+		getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
+
 		createTimers();
 	}
 	
@@ -119,7 +121,7 @@ public class TimerActivity extends Activity {
 //		super.onStop();
 //		
 //	}
-	
+
 	@Override
 	protected void onDestroy() {
 		super.onDestroy();
