@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!--  -->
+    <string name="app_name">Hey! Meditation</string>
+    <!--  -->
+    <string name="title_activity_timer">Hej! Meditace</string>
+    <!--  -->
+    <string name="button1_label">1min meditace</string>
+    <!--  -->
+    <string name="button2_label">3min meditace</string>
+    <!--  -->
+    <string name="breathe">Nádech!</string>
+    <!--  -->
+    <string name="instruction">Postupuj podle instrukcí na obrazovce do té doby, než uslyšíš zvuk upozornění!</string>
+    <!--  -->
+    <string name="about_menu_item">O aplikaci</string>
+
+</resources>
