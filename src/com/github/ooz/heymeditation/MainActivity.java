@@ -31,7 +31,7 @@ public class MainActivity extends Activity {
 		switch (item.getItemId()) {
 		// action with ID action_refresh was selected
 		case R.id.action_about:
-			Toast.makeText(this, "Hey! Meditation by Oliver Zeit\nIcon created with the Android Asset Studio", Toast.LENGTH_LONG).show();
+			Toast.makeText(this, getString(R.string.about_message), Toast.LENGTH_LONG).show();
 			break;
 		default:
 			break;

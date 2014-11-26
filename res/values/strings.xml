@@ -11,8 +11,17 @@
     <!--  -->
     <string name="breathe">Breathe!</string>
     <!--  -->
+    <string name="close_your_eyes">Close your eyes!</string>
+    <!--  -->
     <string name="instruction">Follow the instructions on screen until you hear the notification sound!</string>
     <!--  -->
     <string name="about_menu_item">About</string>
-
+    <!--  -->
+    <string name="about_message">Hey! Meditation by Oliver Zeit\nCzech translation by Jaroslav Lichtblau\nIcon created with the Android Asset Studio</string>
+    <!--  -->
+    <string-array name="hey_messages">
+        <item>Hey! You are perfect!</item>
+        <item>Hey! You can do it!</item>
+        <item>Hey!</item>
+    </string-array>
 </resources>

@@ -4,6 +4,7 @@ import java.util.Random;
 
 import android.app.Activity;
 import android.content.Intent;
+import android.content.res.Resources;
 import android.media.Ringtone;
 import android.media.RingtoneManager;
 import android.net.Uri;
@@ -18,7 +19,6 @@ import android.widget.Toast;
 
 public class TimerActivity extends Activity {
 	
-	private final static int NUM_MESSAGES = 3;
 	private final static int DEFAULT_DURATION = 1;
 	
 	private CountDownTimer preparationTimer = null;
@@ -50,7 +50,7 @@ public class TimerActivity extends Activity {
 		switch (item.getItemId()) {
 		// action with ID action_refresh was selected
 		case R.id.action_about:
-			Toast.makeText(this, "Hey! Meditation by Oliver Zeit\nIcon created with the Android Asset Studio", Toast.LENGTH_LONG).show();
+			Toast.makeText(this, getString(R.string.about_message), Toast.LENGTH_LONG).show();
 			break;
 		default:
 			break;
@@ -66,7 +66,7 @@ public class TimerActivity extends Activity {
 			@Override
 			public void onTick(long millisUntilFinished) {
 				if (millisUntilFinished <= 4000) {
-					text.setText("Close your eyes!");
+					text.setText(getString(R.string.close_your_eyes));
 				}
 			}
 			
@@ -80,18 +80,11 @@ public class TimerActivity extends Activity {
 					
 					@Override
 					public void onFinish() {
+                        Resources res = getResources();
+                        String[] hey_messages = res.getStringArray(R.array.hey_messages);
 						Random rand = new Random();
-						int msgNumber = rand.nextInt(TimerActivity.NUM_MESSAGES);
-						switch (msgNumber) {
-						case 0:
-							text.setText("Hey! You are perfect!");
-							break;
-						case 1:
-							text.setText("Hey! You can do it!");
-							break;
-						default:
-							text.setText("Hey!");
-						}
+						int msgNumber = rand.nextInt(hey_messages.length);
+                        text.setText(hey_messages[msgNumber]);
 						
 						// Play the notification sound. Taken from:
 						// http://stackoverflow.com/questions/4441334/how-to-play-an-android-notification-sound
