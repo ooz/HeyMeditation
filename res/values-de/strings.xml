@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!--  -->
+    <string name="app_name">Hey! Meditation</string>
+    <!--  -->
+    <string name="title_activity_timer">Hey! Meditation</string>
+    <!--  -->
+    <string name="button1_label">1min Meditation</string>
+    <!--  -->
+    <string name="button2_label">3min Meditation</string>
+    <!--  -->
+    <string name="breathe">Atme!</string>
+    <!--  -->
+    <string name="close_your_eyes">Schließ deine Augen!</string>
+    <!--  -->
+    <string name="instruction">Befolge die Anweisungen bis der Benachrichtigungston erklingt!</string>
+    <!--  -->
+    <string name="about_menu_item">Über diese App</string>
+    <!--  -->
+    <string name="about_message">Hey! Meditation by Oliver Zeit\nCzech translation by Jaroslav Lichtblau\nIcon created with the Android Asset Studio</string>
+    <!--  -->
+    <string-array name="hey_messages">
+        <item>Hey! Du bist perfekt!</item>
+        <item>Hey! Du schaffst das!</item>
+        <item>Hey!</item>
+    </string-array>
+</resources>
