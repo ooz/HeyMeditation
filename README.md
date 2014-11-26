@@ -22,7 +22,13 @@ Screenshots
 ![](https://raw.githubusercontent.com/ooz/HeyMeditation/master/screenshots/Screenshot_2014-05-30-16-37-54.png)
 ![](https://raw.githubusercontent.com/ooz/HeyMeditation/master/screenshots/Screenshot_2014-05-30-16-38-15.png)
 
+TODO
+----
+
+ * Put all strings into string.xml for localization
+
 Acknowledgements
 ----------------
 
+ * Czech translation by [Jaroslav Lichtblau](https://github.com/svetlemodry)
  * The App icon was created with [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/index.html)
