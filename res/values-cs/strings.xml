@@ -11,8 +11,17 @@
     <!--  -->
     <string name="breathe">Nádech!</string>
     <!--  -->
+    <string name="close_your_eyes">Zavři oči!</string>
+    <!--  -->
     <string name="instruction">Postupuj podle instrukcí na obrazovce do té doby, než uslyšíš zvuk upozornění!</string>
     <!--  -->
     <string name="about_menu_item">O aplikaci</string>
-
+    <!--  -->
+    <string name="about_message">Hey! Meditation vytvořil Oliver Zeit\nČeský překlad Jaroslav Lichtblau\nIkona vytvořena aplikací Android Asset Studio</string>
+    <!--  -->
+    <string-array name="hey_messages">
+        <item>Hej! Jsi nejlepší!</item>
+        <item>Hej! Zvládneš to!</item>
+        <item>Hej!</item>
+    </string-array>
 </resources>
