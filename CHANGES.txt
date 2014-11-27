@@ -1,3 +1,7 @@
+1.1.1   2014/11/28
+
+ * Fix and extend Czech and German translations
+
 1.1     2014/11/27
 
  * Add Czech translation by Jaroslav Lichtblau
