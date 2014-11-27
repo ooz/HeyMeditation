@@ -11,13 +11,13 @@
     <!--  -->
     <string name="breathe">Atme!</string>
     <!--  -->
-    <string name="close_your_eyes">Schließ deine Augen!</string>
+    <string name="close_your_eyes">Schließe deine Augen!</string>
     <!--  -->
     <string name="instruction">Befolge die Anweisungen bis der Benachrichtigungston erklingt!</string>
     <!--  -->
     <string name="about_menu_item">Über diese App</string>
     <!--  -->
-    <string name="about_message">Hey! Meditation by Oliver Zeit\nCzech translation by Jaroslav Lichtblau\nIcon created with the Android Asset Studio</string>
+    <string name="about_message">Hey! Meditation von Oliver Zeit\nTschechische Übersetzung von Jaroslav Lichtblau\nDas Icon wurde mit dem Android Asset Studio erstellt</string>
     <!--  -->
     <string-array name="hey_messages">
         <item>Hey! Du bist perfekt!</item>
