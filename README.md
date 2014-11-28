@@ -7,8 +7,9 @@ Installation
 ------------
 
 Hey! Meditation is not yet available in the Google Play Store.
+However it is available on [F-Droid, the alternative app catalogue](https://f-droid.org/repository/browse/?fdid=com.github.ooz.heymeditation).
 
-To install the App you need to:
+You can also install the app manually:
 
  1. Go to Settings > Security
  2. Check (activate) the option "Unknown sources"
