@@ -17,7 +17,7 @@
     <!--  -->
     <string name="about_menu_item">O aplikaci</string>
     <!--  -->
-    <string name="about_message">Hey! Meditation vytvořil Oliver Zeit\nČeský překlad Jaroslav Lichtblau\nIkona vytvořena aplikací Android Asset Studio</string>
+    <string name="about_message">Hey! Meditation vytvořil Oliver Zscheyge\nČeský překlad Jaroslav Lichtblau\nIkona vytvořena aplikací Android Asset Studio</string>
     <!--  -->
     <string-array name="hey_messages">
         <item>Hej! Jsi nejlepší!</item>

@@ -17,7 +17,7 @@
     <!--  -->
     <string name="about_menu_item">About</string>
     <!--  -->
-    <string name="about_message">Hey! Meditation by Oliver Zeit\nCzech translation by Jaroslav Lichtblau\nIcon created with the Android Asset Studio</string>
+    <string name="about_message">Hey! Meditation by Oliver Zscheyge\nCzech translation by Jaroslav Lichtblau\nIcon created with the Android Asset Studio</string>
     <!--  -->
     <string-array name="hey_messages">
         <item>Hey! You are perfect!</item>
