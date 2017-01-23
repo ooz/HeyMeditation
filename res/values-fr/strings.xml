@@ -5,9 +5,9 @@
     <!--  -->
     <string name="title_activity_timer">Hey! Meditation</string>
     <!--  -->
-    <string name="button1_label">1min meditation</string>
+    <string name="button1_label">1 min méditation</string>
     <!--  -->
-    <string name="button2_label">3min meditation</string>
+    <string name="button2_label">3 min méditation</string>
     <!--  -->
     <string name="breathe">Respire !</string>
     <!--  -->
@@ -17,10 +17,10 @@
     <!--  -->
     <string name="about_menu_item">A propos de</string>
     <!--  -->
-    <string name="about_message">Hey! Meditation by Oliver Zscheyge\nCzech translation by Jaroslav Lichtblau\nIcon created with the Android Asset Studio</string>
+    <string name="about_message">Hey! Meditation by Oliver Zscheyge\nCzech translation by Jaroslav Lichtblau\nFrench translation by Luc Mazardo\nIcon created with the Android Asset Studio</string>
     <!--  -->
     <string-array name="hey_messages">
-        <item>Hey! Tu es parfait !</item>
+        <item>Hey! C'est parfait !</item>
         <item>Hey! Tu peux le faire !</item>
         <item>Hey!</item>
     </string-array>
